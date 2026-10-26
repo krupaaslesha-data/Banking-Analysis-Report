@@ -49,8 +49,6 @@ The dataset contains **30,000 records and 20 columns**, covering:
 - Loans are the largest product category by record count, with 18,310 records.
 - The dataset contains 16,638 Active records, 11,842 Closed records, 922 Pending records, and 598 Defaulted records.
 
-*Note: These figures describe the source dataset; they are not necessarily dashboard KPIs.*
-
 ## 🚀 How to Use
 1. Clone or download this repository.
 2. Install Microsoft Power BI Desktop.
